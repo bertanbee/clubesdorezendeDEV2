@@ -24,7 +24,6 @@
     .img {
         height: 275px;
         width: 275px;
-        background-color: black;
         margin: 12px;
     }
     
@@ -111,7 +110,6 @@
     .img {
         height: 138px;
         width: 138px;
-        background-color: black;
         margin: 6px;
         align-self: center;
     }
