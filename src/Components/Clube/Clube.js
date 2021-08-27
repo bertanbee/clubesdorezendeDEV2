@@ -7,7 +7,7 @@ function Clube(props) {
         <div className="clubeBox">
             <div className="clube">
                 <div className="subclube">
-                    <div className="img"></div>
+                    <img className="img" src={props.link}></img>
                     <div className="clubeInfo">
                         <h1 className="clubeTitle">{props.title}</h1>
                         <p className="clubeDescription"><h2 className="clubeDescriptionTitle">Descrição: </h2>{props.description}</p>
